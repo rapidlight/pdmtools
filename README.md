@@ -1,3 +1,9 @@
+<p align="center">
+  <b>Important:</b> this project has been moved to <a href="https://github.com/radialle/pdmtools">github.com/radialle/pdmtools</a>. This repository is deprecated.
+</p>
+
+<hr>
+
 pdmtools
 ====
 
